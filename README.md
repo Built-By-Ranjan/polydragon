@@ -1,5 +1,5 @@
 # POLY ARENA — Bot vs Dragon
-
+https://polydragon.netlify.app
 Single-player low-poly FPS. Pure static site (HTML + JS), no server or build step.
 
 ## Deploy on Netlify
